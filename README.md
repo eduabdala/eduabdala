@@ -1,4 +1,4 @@
-### Hi 👋, My name is Eduardo, I'm a software engineering student and a technology enthusiast!
+### Hi 👋, My name is Eduardo, I'm a software engineering student and a technology enthusiast! <iframe src="https://giphy.com/embed/NS0bXSSo8nIFbDDSb5" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/zelda-navi-ocarina-NS0bXSSo8nIFbDDSb5">via GIPHY</a></p>
 
 ### Technlogies
 
