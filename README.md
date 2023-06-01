@@ -1,4 +1,4 @@
-### Hi 👋, My name is Eduardo, I'm a software engineering student and a technology enthusiast! <img src="Assets/navi.gif" width="25px" height="25px">
+### Hey! Listen!<img src="Assets/navi.gif" width="30px" height="30px">, My name is Eduardo, I'm a software engineering student and a technology enthusiast.
 
 
 ### Technlogies
