@@ -1,5 +1,4 @@
-### Hi 👋, My name is Eduardo, I'm a software engineering student and a technology enthusiast! 
-<div class="tenor-gif-embed" data-postid="13123284" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/legendofzelda-navi-heylisten-gif-13123284">Legendofzelda Navi Sticker</a>from <a href="https://tenor.com/search/legendofzelda-stickers">Legendofzelda Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+### Hi 👋, My name is Eduardo, I'm a software engineering student and a technology enthusiast! <img src="Assets/navi.gif" width="25px" height="25px">
 
 
 ### Technlogies
