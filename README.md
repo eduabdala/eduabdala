@@ -1,6 +1,6 @@
 ### Hey! Listen!<img src="Assets/navi.gif" width="40px" height="40px">
 
-## 🚧 This README is under construction 🚧
+🚧 This README is under construction 🚧
 
 My name is Eduardo, I'm a software engineering student and a technology enthusiast. ✨
 
