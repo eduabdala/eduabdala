@@ -20,7 +20,7 @@ My name is Eduardo, I'm a software engineering student and a technology enthusia
 <div>
 <a href="https://github.com/eduabdala">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduabdala&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduabdala-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduabdala&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
                   
