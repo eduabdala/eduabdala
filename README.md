@@ -1,14 +1,13 @@
 ### Hey! Listen!<img src="Assets/navi.gif" width="40px" height="40px">
 
-<img src="Assets/vaporwave.gif" width="100%">
+🚧 This README is under construction 🚧
 
-### My name is Eduardo, I'm a software engineering student and a technology enthusiast.
+### My name is Eduardo, I'm a software engineering student and a technology enthusiast. 
 
 
-### Technlogies <img src="Assets/dog-office.gif" width="25px" height="25px">
-          
+### Technlogies 💻      
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/>
           
           
           
