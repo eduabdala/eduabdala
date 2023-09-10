@@ -1,27 +1,51 @@
+
+<img src="Assets/wave-pxart.gif" width="100%" height="200px">
+
 ### Hey! Listen!<img src="Assets/navi.gif" width="40px" height="40px">
+
+#### Me chamo Eduardo
+#### Sou estudante de engenharia de software, curto jogos e atualmente estou aprendendo um pouco sobre Pixel art e arduino como hobbie. 
+
+- 🔭 I’m currently working on my future.
+- 🌱 I’m currently learning C/C++, Linux...
+- 👯 I’m looking to collaborate on open-source projects
+- 🤔 I’m looking for help with english conversation
+- 💬 Ask me about anything
+- 📫 How to reach me: ███████████
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: █████
 #
 
-### Hi, my name is Eduardo 
-### I'm a software engineering student and a technology enthusiast. ✨
-#
-
-### Technlogies 💻      
+#### Technlogies 💻      
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35px" heigth="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" height="35px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35px" heigth="35px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35px" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" height="35px"/>
+
+####
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35px"/>
+          
+          
+
+
+          
+          
+          
+          
 
 #
-### Contacts 📫
 
-<div>
-<a href="https://instagram.com/edu_abdala" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:eduardoabdala@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eduardo-silva-abdala-18bb6a208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 <br>
 <div>
 <a href="https://github.com/eduabdala">
-<img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduabdala&layout=compact&langs_count=7&theme=tokyonight"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduabdala&show_icons=true&theme=tokyonight"/>
+
+<img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduabdala&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
                   
