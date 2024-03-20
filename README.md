@@ -4,21 +4,21 @@
 ### Hey! Listen!<img src="Assets/navi.gif" width="40px" height="40px">
 
 #### Me chamo Eduardo
-#### Sou estudante de engenharia de software, curto jogos e atualmente estou aprendendo um pouco sobre Pixel art e arduino como hobbie. 
+#### Sou estudante de engenharia de software, curto jogos e desenhar as vezes. 
 
-- 🔭 I’m currently working on my future.
-- 🌱 I’m currently learning C/C++, Linux...
+- 🔭 I’m currently working.
+- 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with english conversation
 - 💬 Ask me about anything
-- 📫 How to reach me: ███████████
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: █████
+- ⚡ Fun fact: i love whiskey sour.
 #
 
 #### Technlogies 💻      
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35px" heigth="35px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" height="35px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" height="35px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" height="35px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" height="35px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px" height="35px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35px" height="35px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35px" height="35px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" height="35px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" height="35px"/>
 
 ####
 
