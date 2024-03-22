@@ -1,5 +1,5 @@
 
-<img src="Assets/wave-pxart.gif" width="100%" height="200px">
+<img src="Assets/maggie.gif" width="100%" >
 <!--
 Hey! Listen!<img src="Assets/navi.gif" width="40px" height="40px">
 <!--
