@@ -34,5 +34,5 @@
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [(www.linkedin.com/in/eduardo-silva-abdala)]
-- E-mail: [eduardoabdala@icloud.com]
+- LinkedIn: www.linkedin.com/in/eduardo-silva-abdala
+- E-mail: eduardoabdala@icloud.com
