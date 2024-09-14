@@ -1,3 +1,5 @@
+<img src="Assets/_.gif" width="100%" height="200px" style="object-fit: cover;"/>
+
 # 👋 Olá! Eu sou o eduardo!
 
 🎓 **Estudante de Engenharia de Software** apaixonado por **tecnologia**, **biologia**, e **eletrônica**. Adoro mesclar áreas do conhecimento para criar soluções inovadoras e sustentáveis. Estou constantemente explorando novas formas de aplicar **engenharia de software**, **IoT**, **automação** e **bioinformática** em projetos práticos.
