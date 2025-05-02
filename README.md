@@ -1,40 +1,58 @@
-<img src="Assets/_.gif" width="100%" height="200px" style="object-fit: cover;"/>
+<img src="Assets/_.gif" width="100%" height="200px" style="object-fit: cover;" />
 
-# 👋 Olá! Eu sou o eduardo!
+# 👋 Olá! Eu sou o Eduardo!
 
-🎓 **Estudante de Engenharia de Software** apaixonado por **tecnologia**, **biologia**, e **eletrônica**. Adoro mesclar áreas do conhecimento para criar soluções inovadoras e sustentáveis. Estou constantemente explorando novas formas de aplicar **engenharia de software**, **IoT**, **automação** e **bioinformática** em projetos práticos.
+🎓 **Estudante de Engenharia de Software** com paixão por **tecnologia**, **biologia** e **eletrônica**. Gosto de unir diferentes áreas do conhecimento para criar soluções inovadoras e sustentáveis, explorando a interseção entre **engenharia de software**, **IoT**, **automação** e **bioinformática**.
+
+---
 
 ## 🌱 Interesses
 
-- **Internet das Coisas (IoT)**: Desenvolvendo projetos de automação para jardinagem e monitoramento de plantas usando sensores e tecnologia embarcada.
-  
-- **Bioinformática**: Estudando a interseção entre **biologia** e **tecnologia**, especialmente no que diz respeito à análise de dados biológicos e o uso de software para entender processos naturais.
+- **Internet das Coisas (IoT)**: Projetos com sensores e microcontroladores aplicados à automação e monitoramento ambiental.
+- **Bioinformática**: Iniciando estudos em ciência de dados aplicada à biologia.
+- **Eletrônica**: Aprendizado contínuo com foco em aplicações práticas e sustentáveis.
+- **Desenvolvimento Fullstack**: Aprofundando habilidades em frontend, backend e boas práticas de arquitetura de software.
 
-- **Eletrônica**: Em fase de aprendizado, focando em como dispositivos eletrônicos podem ser usados para monitoramento ambiental e otimização de processos.
+---
 
-- **Jardinagem e Botânica**: Explorando como a tecnologia pode ser utilizada para melhorar o cuidado com plantas e ambientes, integrando sensoriamento de umidade e controle de irrigação automatizado.
+## 🚀 Projetos Reais
 
-## 🚀 Projetos em Andamento
+- 🧪 **Sistema de Testes para Produtos Industriais**  
+  Aplicação desktop criada durante o estágio na Perto S.A., centralizando testes via USB/Serial. Desenvolvido com **Python**, **Dart** e **Flutter**, otimizou processos e reduziu erros operacionais.
 
-- **Monitoramento Inteligente de Plantas**: Um projeto de IoT para o monitoramento de umidade do solo e controle de irrigação de plantas, com o objetivo de otimizar o cultivo de frutos ou vegetais dentro de casa.
-  
-- **Oxigenação de Ambientes com Algas**: Desenvolvimento de um mecanismo portátil para melhorar a qualidade do ar, usando algas e seu processo de fotossíntese para gerar oxigênio.
+- 🧾 **Gerador de Documentação Técnica Automatizada**  
+  Sistema baseado em **Markdown** + **Sphinx** para criação de PDFs e páginas HTML de documentação técnica (ETE), agilizando a manutenção de manuais e instruções técnicas.
 
-- **Firmware Customizado para MP3 Player**: Explorando modificações em firmware para melhorar o consumo de bateria e adicionar funcionalidades em dispositivos eletrônicos.
+- 🧪 **Testes Automatizados com Robot Framework**  
+  Desenvolvimento de testes automatizados de produtos físicos, utilizando **Python** e **Robot Framework**, reduzindo o tempo e esforço de validação manual.
+
+- 🌐 **Portfólio Profissional em Next.js**  
+  Website pessoal com foco em responsividade, organização de projetos e performance.  
+  🔗 [portfolioabdala.vercel.app](https://portfolioabdala.vercel.app)  
+  📂 [github.com/eduabdala/portfolio](https://github.com/eduabdala/portfolio)
+
+---
 
 ## 🎯 Objetivos Futuros
 
-- **Pesquisa Científica**: Quero expandir meu conhecimento em **iniciação científica** e na criação de artigos, buscando maneiras de contribuir para o campo da engenharia de software aplicada à biologia e eletrônica.
-  
-- **Avançar em Eletrônica**: Continuar aprendendo e aplicando princípios de eletrônica em meus projetos de IoT e automação.
+- **Pesquisa Científica Aplicada**  
+  Conectar engenharia de software com áreas como eletrônica e biotecnologia por meio de projetos e artigos científicos.
+
+- **Especialização em Inteligência Artificial**  
+  Estudo e aplicação de IA e Machine Learning em contextos reais, especialmente voltados à automação e análise de dados.
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens**: C, Python, Dart
-- **Plataformas de Hardware**: Arduino, ESP32
-- **Ferramentas**: Git, VSCode, MATLAB
+**Linguagens**: Python • Dart • C/C++  
+**Frameworks**: Flutter • Robot Framework • Next.js (básico)  
+**Hardware**: Arduino • ESP32  
+**Ferramentas**: Git • Docker (iniciante) • Linux • VSCode
 
-## 📫 Como me encontrar
+---
 
-- LinkedIn: www.linkedin.com/in/eduardo-silva-abdala
-- E-mail: eduardoabdala@icloud.com
+## 📫 Contato
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-silva-abdala)
+- 📧 eduardoabdala@icloud.com
