@@ -1,8 +1,36 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Stable_puffer_animation.gif" width="100%" height="200px" style="object-fit: cover;" />
 
-# 👋 Olá! Eu sou o Eduardo!
+# ツ Olá! Eu sou o Abdala!
 
-🎓 **Estudante de Engenharia de Software** com paixão por **tecnologia**, **biologia** e **eletrônica**. Gosto de unir diferentes áreas do conhecimento para criar soluções inovadoras e sustentáveis, explorando a interseção entre **engenharia de software**, **IoT**, **automação** e **bioinformática**.
+🎓 **Estudante de Engenharia de Software** com paixão por **tecnologia** e **biologia**. Gosto de unir diferentes áreas do conhecimento, explorando a interseção entre **engenharia de software**, **IoT**, **automação** e **bioinformática**.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Linguagens**: 
+• <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> Python 
+• <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> Dart 
+• <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> C/C++  • <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> SQL
+
+**Frameworks**: 
+• <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> Flutter 
+• <img src="https://www.svgrepo.com/show/374049/robotframework.svg" width="20px" height="20px" style="object-fit: cover;" /> Robot Framework 
+• <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> Next.js (básico)
+
+**Banco De Dados**
+• <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> MySql
+• <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> PostgreSQL
+
+
+**Hardware**: 
+• <img src="https://cdn.iconscout.com/icon/free/png-512/free-espressif-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2285012.png?f=webp&w=256" width="20px" height="20px" style="object-fit: cover;" />ESP32
+
+**Ferramentas**:
+• <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> Git 
+• <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> Docker (iniciante) 
+• <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> Linux 
+• <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> VSCode
 
 ---
 
@@ -10,7 +38,6 @@
 
 - **Internet das Coisas (IoT)**: Projetos com sensores e microcontroladores aplicados à automação e monitoramento ambiental.
 - **Bioinformática**: Iniciando estudos em ciência de dados aplicada à biologia.
-- **Eletrônica**: Aprendizado contínuo com foco em aplicações práticas e sustentáveis.
 - **Desenvolvimento Fullstack**: Aprofundando habilidades em frontend, backend e boas práticas de arquitetura de software.
 
 ---
@@ -43,12 +70,12 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🎨 Hobbies
 
-**Linguagens**: Python • Dart • C/C++  
-**Frameworks**: Flutter • Robot Framework • Next.js (básico)  
-**Hardware**: ESP32  
-**Ferramentas**: Git • Docker (iniciante) • Linux • VSCode
+- 🪡 **Bordado**
+- 🎶 **Flauta doce**
+- 📚 **Leitura**
+- 📸 **Fotografia** 🐦‍⬛ 
 
 ---
 
