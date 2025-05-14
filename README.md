@@ -1,4 +1,4 @@
-<img src="Assets/_.gif" width="100%" height="200px" style="object-fit: cover;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Stable_puffer_animation.gif" width="100%" height="200px" style="object-fit: cover;" />
 
 # 👋 Olá! Eu sou o Eduardo!
 
@@ -47,7 +47,7 @@
 
 **Linguagens**: Python • Dart • C/C++  
 **Frameworks**: Flutter • Robot Framework • Next.js (básico)  
-**Hardware**: Arduino • ESP32  
+**Hardware**: ESP32  
 **Ferramentas**: Git • Docker (iniciante) • Linux • VSCode
 
 ---
