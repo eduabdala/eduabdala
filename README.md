@@ -1,5 +1,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Stable_puffer_animation.gif" width="100%" height="200px" style="object-fit: cover;" />
 
+![GitHub followers](https://img.shields.io/github/followers/eduabdala?label=Seguidores&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/eduabdala?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/eduabdala/portfolio)
+
+
 # ツ Olá! Eu sou o Abdala!
 
 🎓 **Estudante de Engenharia de Software** com paixão por **tecnologia** e **biologia**. Gosto de unir diferentes áreas do conhecimento, explorando a interseção entre **engenharia de software**, **IoT**, **automação** e **bioinformática**.
@@ -83,3 +88,9 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-silva-abdala)
 - 📧 eduardoabdala@icloud.com
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduabdala&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduabdala&layout=compact&langs_count=8&theme=default" height="150"/>
+</p>
+
