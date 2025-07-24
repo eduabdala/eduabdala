@@ -1,7 +1,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Stable_puffer_animation.gif" width="100%" height="200px" style="object-fit: cover;" />
 
-![GitHub followers](https://img.shields.io/github/followers/eduabdala?label=Followers&style=social)  
-![GitHub User's stars](https://img.shields.io/github/stars/eduabdala?style=social)  
+![GitHub followers](https://img.shields.io/github/followers/eduabdala?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/eduabdala?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/eduabdala/portfolio)
 
 # ツ Hello! I'm Abdala!
