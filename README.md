@@ -79,7 +79,7 @@
 ## 🎨 Hobbies
 
 - 🪡 **Embroidery**  
-- 🎶 **Recorder (Flauta Doce)**  
+- 🎶 **Recorder**  
 - 📚 **Reading**  
 - 📸 **Photography** 🐦‍⬛
 
