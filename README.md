@@ -50,15 +50,6 @@
 
 ## 🚀 Real Projects
 
-- 🧪 **Industrial Product Testing System**  
-  Desktop app developed during my internship at Perto S.A., centralizing USB/Serial testing. Built with **Python**, **Dart**, and **Flutter**, it optimized processes and reduced operational errors.
-
-- 🧾 **Automated Technical Documentation Generator**  
-  System based on **Markdown** + **Sphinx** to generate PDFs and HTML pages for technical documentation (ETE), speeding up the maintenance of manuals and instructions.
-
-- 🧪 **Automated Testing with Robot Framework**  
-  Development of automated tests for physical products using **Python** and **Robot Framework**, significantly reducing manual validation time and effort.
-
 - 🌐 **Professional Portfolio in Next.js**  
   Personal website focused on responsiveness, project organization, and performance.  
   🔗 [portfolioabdala.vercel.app](https://portfolioabdala.vercel.app)  
