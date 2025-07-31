@@ -47,6 +47,17 @@ I work at the intersection of **software development**, **electronics**, **compu
 • <img src="https://img.icons8.com/?size=100&id=106729&format=png&color=000000" width="20px" height="20px" style="object-fit: cover;" /> WebSockets 
 
 ---
+## 🧩 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/eduabdala/tool-flutter-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=tool-flutter-app&theme=default" />
+  </a>
+  <a href="https://github.com/eduabdala/chat-ethora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=chat-ethora&theme=default" />
+  </a>
+</p>
+
 
 ## 🌱 Interests
 
