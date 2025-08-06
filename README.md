@@ -52,12 +52,13 @@ I work at the intersection of **software development**, **electronics**, **compu
 
 <p align="center">
   <a href="https://github.com/eduabdala/tool-flutter-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=tool-flutter-app&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=tool-flutter-app&theme=default&cache_bust=1691247600" width="400"/>
   </a>
   <a href="https://github.com/eduabdala/chat-ethora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=chat-ethora&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=chat-ethora&theme=default&cache_bust=1691247600" width="370"/>
   </a>
 </p>
+
 
 
 ## 🌱 Interests
@@ -87,6 +88,17 @@ I work at the intersection of **software development**, **electronics**, **compu
 
 ---
 
+
+## 🧩 Challanges
+
+<p align="center">
+  <a href="https://github.com/eduabdala/geekdemy-challange">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=geekdemy-challange&theme=default&cache_bust=1691247600" />
+  </a>
+  <a href="https://github.com/eduabdala/teste-tecnico-simers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=teste-tecnico-simers&theme=default&cache_bust=1691247600" />
+  </a>
+</p>
 ## 🎨 Hobbies
 
 - 🪡 **Embroidery**  
@@ -100,8 +112,9 @@ I work at the intersection of **software development**, **electronics**, **compu
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-silva-abdala)  
 - 📧 eduardoabdala@icloud.com
-
+- 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduabdala&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduabdala&layout=compact&langs_count=8&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eduabdala&show_icons=true&theme=default&cache_bust=1691247600" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduabdala&layout=compact&langs_count=8&theme=default&cache_bust=1691247600" height="150"/>
 </p>
+
