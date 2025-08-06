@@ -99,6 +99,7 @@ I work at the intersection of **software development**, **electronics**, **compu
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=teste-tecnico-simers&theme=default&cache_bust=1691247600" />
   </a>
 </p>
+
 ## 🎨 Hobbies
 
 - 🪡 **Embroidery**  
@@ -112,9 +113,9 @@ I work at the intersection of **software development**, **electronics**, **compu
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-silva-abdala)  
 - 📧 eduardoabdala@icloud.com
-- 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduabdala&show_icons=true&theme=default&cache_bust=1691247600" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eduabdala&show_icons=true&theme=default&cache_bust=1691248600" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduabdala&layout=compact&langs_count=8&theme=default&cache_bust=1691247600" height="150"/>
 </p>
 
