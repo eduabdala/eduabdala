@@ -55,7 +55,7 @@ I work at the intersection of **software development**, **electronics**, **compu
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=tool-flutter-app&theme=default&cache_bust=1691247600" width="400"/>
   </a>
   <a href="https://github.com/eduabdala/chat-ethora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=chat-ethora&theme=default&cache_bust=1691247600" width="370"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=tool-chat-ethora&theme=default&cache_bust=1691247600" width="370"/>
   </a>
 </p>
 
@@ -93,7 +93,7 @@ I work at the intersection of **software development**, **electronics**, **compu
 
 <p align="center">
   <a href="https://github.com/eduabdala/geekdemy-challange">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=geekdemy-challange&theme=default&cache_bust=1691247600" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=challange-python-geekdemy&theme=default&cache_bust=1691247600" />
   </a>
   <a href="https://github.com/eduabdala/lib-open-bsc">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=lib-open-bsc&theme=default&cache_bust=1691247600" />
