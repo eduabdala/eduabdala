@@ -4,7 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/eduabdala?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/eduabdala/eduabdala)
 
-# ツ Hello! I'm Abdala!
+# ツ Hello!
 
 🎓 I'm **Eduardo Abdala**, a **multidisciplinary software engineer** focused on integrating technology, science, and creativity.  
 I work at the intersection of **software development**, **electronics**, **computational biology**, and **automation**. creating practical and innovative solutions that bridge diverse fields of knowledge.
