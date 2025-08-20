@@ -7,7 +7,7 @@
 # ツ Hello!
 
 🎓 I'm **Eduardo Abdala**, a **multidisciplinary software engineer** focused on integrating technology, science, and creativity.  
-I work at the intersection of **software development**, **electronics**, **computational biology**, and **automation**. creating practical and innovative solutions that bridge diverse fields of knowledge.
+I work at the intersection of **software development**, **electronics**, and **automation**. creating practical and innovative solutions that bridge diverse fields of knowledge.
 
 ---
 
@@ -64,7 +64,6 @@ I work at the intersection of **software development**, **electronics**, **compu
 ## 🌱 Interests
 
 - **Internet of Things (IoT)**: Projects with sensors and microcontrollers for automation and environmental monitoring.  
-- **Bioinformatics**: Beginning to study data science applied to biology.  
 - **Fullstack Development**: Deepening skills in frontend, backend, and software architecture best practices.
 
 ---
@@ -81,7 +80,7 @@ I work at the intersection of **software development**, **electronics**, **compu
 ## 🎯 Future Goals
 
 - **Applied Scientific Research**  
-  Bridge software engineering with electronics and biotechnology through projects and scientific articles.
+  Bridge software engineering with electronics through projects and scientific articles.
 
 - **Specialization in Artificial Intelligence**  
   Study and apply AI and Machine Learning to real-world problems, especially in automation and data analysis.
