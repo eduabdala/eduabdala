@@ -91,8 +91,8 @@ I work at the intersection of **software development**, **electronics**, and **a
 ## 🧩 Challanges
 
 <p align="center">
-  <a href="https://github.com/eduabdala/geekdemy-challange">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=challange-python-geekdemy&theme=default&cache_bust=1691247600" />
+  <a href="https://github.com/eduabdala/tool-cesar-cipher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=tool-cesar-cipher&theme=default&cache_bust=1691247600" width="425"/>
   </a>
   <a href="https://github.com/eduabdala/lib-open-bsc">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduabdala&repo=lib-open-bsc&theme=default&cache_bust=1691247600" />
