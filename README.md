@@ -1,8 +1,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Stable_puffer_animation.gif" width="100%" height="200px" style="object-fit: cover;" />
 
-# ツ Hello!
- I'm **Eduardo Abdala**, a **software engineer** focused on integrating technology, science, and creativity.  
-I work at the intersection of **software development**, **electronics**, and **automation**. creating practical and innovative solutions that bridge diverse fields of knowledge.
+# ツ Olá!  
+
+Meu nome é **Eduardo Abdala**. Sou estudante de **Engenharia de Software** pela Universidade Pitágora Unopar Anhanguera - UNOPAR e atualmente estagiário na **Perto S.A.**, onde tenho desenvolvido conhecimentos em **Desenvolvimento de Softwares, Resolução de Problemas, Engenharia e Automação**.
+
+Se quiser saber mais sobre mim e meus projetos, confira meu **portfólio pessoal**:  
+[Portfolio E.abdala](https://portfolioabdala.vercel.app/)
 
 ---
 
@@ -44,11 +47,11 @@ I work at the intersection of **software development**, **electronics**, and **a
 ---
 ## Future Goals
 
-- **Applied Scientific Research**  
-  Bridge software engineering with electronics through projects and scientific articles.
+- **Pesquisa Científica Aplicada**  
+  Integrar engenharia de software com eletrônica através de projetos e artigos científicos.
 
-- **Specialization in Artificial Intelligence**  
-  Study and apply AI and Machine Learning to real-world problems, especially in automation and data analysis.
+- **Especialização em Inteligência Artificial e/ou Sistemas Embarcados**  
+  Estudar e aplicar **IA**, **Sistemas Embarcados** e **Machine Learning** em problemas reais, especialmente em automação e análise de dados.
 
 ---
 <p align="center">
