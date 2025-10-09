@@ -1,4 +1,4 @@
-<div style="width: 100%; height: 200px; overflow: hidden;">
+<div style="width: 100%; height: 25vh; min-height: 150px; max-height: 250px; overflow: hidden;">
   <img src="https://www.sciencealert.com/images/2018-10/processed/black-hole-jean-pierre-luminet_1024.jpg" style="width: 100%; height: 100%; object-fit: cover;"/>
 </div>
 
