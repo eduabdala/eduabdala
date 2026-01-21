@@ -4,16 +4,14 @@
   />
 </p>
 
-# Hey!
+# Hey...
 
-I’m **Eduardo Abdala**, an **Embedded Systems Engineer** with a strong interest in **research and the academic field**.  
-I currently work at **Perto S.A.**, developing solutions involving **firmware, low-level software, and hardware–software integration**.
-
-My professional focus is on understanding systems deeply — from electronic behavior to software abstractions — and applying this knowledge to **engineering, automation, and research-driven development**.
+I’m **Eduardo Abdala**, an **Embedded Systems Engineer** with interest in **research and the academic field**.  
+I currently work at **Perto S.A.**, developing **firmware and software integration**.
 
 ---
 
-## 🎓 Background
+## Background
 
 - **Software Engineering** — Universidade Pitágoras Unopar Anhanguera (UNOPAR)  
 - **Embedded Engineer** at **Perto S.A.**  
@@ -21,14 +19,14 @@ My professional focus is on understanding systems deeply — from electronic beh
 
 ---
 
-## 🌐 Portfolio & Projects
+## Portfolio & Projects
 
 More details about my background, projects, and technical experience are available at:  
 🔗 **https://portfolioabdala.vercel.app/**
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img 
@@ -40,3 +38,8 @@ More details about my background, projects, and technical experience are availab
     height="195"
   />
 </p>
+
+## Personal Interests
+
+Beyond research and engineering, I engage in activities that foster discipline and structured practice, including music (piano and recorder) and embroidery.
+
