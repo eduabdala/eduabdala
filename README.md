@@ -1,18 +1,18 @@
 # Embedded Systems Engineer
 
-**Firmware Developer | Security Researcher | M.Sc. Candidate**
+**Firmware Developer | Hardware Security Researcher | M.Sc. Student @ UFRGS**
 
-I specialize in firmware development, low-level architecture, and hardware security. My work and research focus on building robust, real-time systems and implementing advanced cryptography on resource-constrained devices.
+I engineer low-level firmware, real-time architectures, and hardware-level security. My work focuses on building deterministic systems and implementing post-quantum cryptography on resource-constrained microcontrollers.
 
-## Technical Skills
+## Technical Stack
 
-* **Languages:** C, C++, Python
-* **Environments:** Embedded Linux, RTOS, Bare-Metal
-* **Hardware:** Microcontrollers, ARM Architectures, Raspberry Pi
-* **Concepts:** Hardware/Software Integration, Device Protocols, Debugging
+- **Languages:** C, C++, Python
+- **Systems:** Embedded Linux, RTOS, Bare-Metal
+- **Hardware:** ARM Cortex-M, AVR, ESP32, Raspberry Pi
+- **Tooling & Core:** CMake, CI/CD, Hardware/Software Co-design, Low-Level Debugging
 
 ## Research Interests
 
-* Embedded Security & Post-Quantum Cryptography
-* Edge Computing & Embedded AI
-* Real-Time Operating Systems
+- Hardware Security & Post-Quantum Cryptography (PQC)
+- Energy & Performance Profiling on Microcontrollers
+- Edge AI & Deterministic Real-Time Systems
