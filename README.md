@@ -1,11 +1,11 @@
 ## @@@@@
 
-**Embedded Systems Engineer | Hardware Security Researcher | M.Sc. Student @ UFRGS**
+**Embedded Systems Engineer | Embedded Security Researcher | M.Sc. Student @ UFRGS**
 
 [![GitHub](https://img.shields.io/badge/GitHub-eduabdala-181717?style=flat-square&logo=github)](https://github.com/eduabdala)
 [![UFRGS](https://img.shields.io/badge/Research-PPGC%20%2F%20UFRGS-181717?style=flat-square)](https://www.inf.ufrgs.br/ppgc/)
 
-I engineer low-level firmware, real-time architectures, and hardware-level security. My work focuses on building deterministic systems and implementing post-quantum cryptography on resource-constrained microcontrollers.
+I engineer low-level firmware, real-time software architectures, and embedded security solutions. My work focuses on building deterministic systems and implementing post-quantum cryptography on resource-constrained microcontrollers.
 
 ---
 
@@ -13,12 +13,12 @@ I engineer low-level firmware, real-time architectures, and hardware-level secur
 
 - **Languages:** C, C++, Python
 - **Systems:** Embedded Linux, Buildroot, RTOS, Bare-Metal
-- **Hardware:** ARM Cortex-M, AVR, ESP32, Raspberry Pi, FPGA
-- **Tooling & Core:** CMake, CI/CD, Hardware/Software Co-design, Low-Level Debugging
+- **Platforms:** ARM Cortex-M, AVR, ESP32, Raspberry Pi
+- **Tooling & Core:** CMake, CI/CD, Device Protocols, Low-Level Debugging
 
 #### Research Interests
 
-- Hardware Security & Post-Quantum Cryptography (PQC)
+- Embedded Security & Post-Quantum Cryptography (PQC)
 - Energy & Performance Profiling on Microcontrollers
 - Edge AI & Deterministic Real-Time Systems
 
